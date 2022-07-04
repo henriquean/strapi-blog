@@ -1,0 +1,2 @@
+# strapi-blog
+Strapi Blog
